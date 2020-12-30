@@ -25,7 +25,7 @@
 # Method
 
 
-<a href="https://app.gitbook.com/@starkgangz/s/fridayuserbot/"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
+<a href="https://app.gitbook.com/@starkgangz/s/Space-X6/"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
 
 
 
@@ -37,13 +37,6 @@
 
 
 
-
-
-
-# String Session
-## Repl
-
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://friday.midhunkm1294.repl.run)
 
 
 
