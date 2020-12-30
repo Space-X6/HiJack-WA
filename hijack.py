@@ -2,7 +2,7 @@
 # This Tool for Educational Purpose Only
 # Code By Ahamed insafeer
 # WhatsApp Admin Hijack Using Termux 
-# 100 % SUCCESSFULL
+# 100 % SUCCESSFULL ..
 
 
 import os
