@@ -41,7 +41,7 @@
 
 
 
-# Hard Way (For Devs)
+# Install for Termux 
 
 Simply clone the repository and run the main file:
 ```sh
