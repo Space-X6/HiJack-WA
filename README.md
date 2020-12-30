@@ -46,17 +46,18 @@
 Simply clone the repository and run the main file:
 ```sh
 # Install Git First.
-git clone https://github.com/starkGang/FridayUserbot
+git clone https://github.com/Space-X6/HiJack-WA
 # Open Git Cloned File
-cd FridayUserbot
-# Config Virtual Env
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-# Install All Requirements 
-pip install -r requirements.txt
-# Create local_config.py with variables as given below
-# Start Bot 
-python3 -m fridaybot
+cd HiJack-WA
+# Run 
+python hijack.py
+
+
+
+
+
+
+
 ```
 
 
@@ -66,16 +67,10 @@ python3 -m fridaybot
 
 
 
-# Mandatory Vars
+# Important
 ```
-[+] Only two of the environment variables are mandatory.
-
-[+] This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
-
-    [-] APP_ID:   You can get this value from https://my.telegram.org
-    [-] API_HASH :   You can get this value from https://my.telegram.org
-    
-[+] The fridaybot will not work without setting the mandatory vars.
+[+] requirements.py Don't Install First !!!!!
+[+] If Didn't work Tool then Run the requirements.py
 ```
 
 
