@@ -1,5 +1,5 @@
 # HiJack-WA
-a very powerfull Whatsapp Admin hijack script. This Tool For Educational purpose Only. !
+## a very powerfull Whatsapp Admin hijack script. This Tool For Educational purpose Only. !
 
 <p align="center"><a href="https://t.me/Space-X6"><img src="Space-X6.jpg" width="5000"></a></p> 
 <h1 align="center"><b>HiJack-WA</b></h1>
@@ -13,9 +13,9 @@ a very powerfull Whatsapp Admin hijack script. This Tool For Educational purpose
 
 # Support
 
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Space-X6"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Space-x6"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
@@ -24,7 +24,6 @@ a very powerfull Whatsapp Admin hijack script. This Tool For Educational purpose
 
 # Method
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 <a href="https://app.gitbook.com/@starkgangz/s/fridayuserbot/"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
 
